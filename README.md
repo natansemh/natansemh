@@ -1,5 +1,4 @@
-### Você está no perfil do ser mais lindo já descoberto pela humanidade😍
-#### _aprecie com moderação_
+
 <p text-align:"justify">
   Salve patrão, meu nome é Natan e atualmente tenho 18 anos e sou um desenvolvedor Front-End em formação,
   desde os meus 15 anos estive cursando Desenvolvimento Web através de uma escola técnica, sendo esse o 
