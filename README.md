@@ -1,6 +1,6 @@
 <h2>Fala ae, aqui é o Natan, to sempre por aí desenvolvendo novos bugs todos os dias</h2>
 <p text-align:"justify">
-  Salve patrão, meu nome é Natan e atualmente tenho 18 anos e sou um desenvolvedor Front-End em formação,
+  Salve patrão, meu nome é Natan e atualmente tenho 19 anos e sou um desenvolvedor Front-End em formação,
   desde os meus 15 anos estive cursando Desenvolvimento Web através de uma escola técnica, sendo esse o 
   meu primeiro contato com o mundo do desenvolvimento. Atualmente estou focado em aprender linguagens
   de Back-End, e cursando Análise e Desenvolvimento de Sistemas na Fatec Itu.
