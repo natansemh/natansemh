@@ -2,7 +2,7 @@
 <p>
   :goberserk: What you need to know about me is that I'm always studying and creating new projects with my friends. 
   My goal is to master and improve my skills whithout going bald in the process. Now, I'm gonna go back
-  to my computer and try to find wheres is the missing semicolons, by the way, why you still reading this?
+  to my computer and try to find where is the missing semicolons, by the way, why you still reading this?
 </p>
 
 <div>
